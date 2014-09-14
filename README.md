@@ -21,7 +21,7 @@ cvs.addEventListener('mousemove', function(ev) {
 ```
 
 ## Info
-This is basically just pulled from [canvas-color](https://github.com/JamesKyburz/canvas-colorpicker).
+This is basically just pulled from [canvas-color-picker](https://github.com/JamesKyburz/canvas-colorpicker).
 With some slight changes.
 
 ## License
