@@ -1,0 +1,28 @@
+{
+  "name": "canvas-pixel-color",
+  "version": "1.0.0",
+  "description": "get color data of pixel from canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/canvas-pixel-color.git"
+  },
+  "keywords": [
+    "pixel",
+    "color",
+    "rgba",
+    "hex",
+    "data",
+    "canvas",
+    "event"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/canvas-pixel-color/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/canvas-pixel-color"
+}

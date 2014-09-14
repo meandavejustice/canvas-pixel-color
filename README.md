@@ -1,5 +1,7 @@
 # Canvas-pixel-color
 
+[![NPM](https://nodei.co/npm/canvas-pixel-color.png?downloads=true)](https://npmjs.com/package/canvas-pixel-color)
+
 pass an event and canvas context and get back rgba and hex data.
 
 ## Usage
